@@ -41,3 +41,4 @@ The dataset used is sourced from Kaggle, titled **"Cirrhosis Prediction Dataset"
 ## Author
 **Eman Abdallah Yosif Maharik**  
 Dataset Source: [Kaggle - Cirrhosis Prediction Dataset](https://www.kaggle.com/datasets/...)
+Link of deployment: [https://liver-cirrhosis-stage-prediction-project.streamlit.app/]
